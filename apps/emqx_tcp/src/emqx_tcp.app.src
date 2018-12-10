@@ -1,0 +1,17 @@
+{application, emqx_tcp,
+ [{description, "An OTP application"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, { emqx_tcp_app, []}},
+  {applications,
+   [kernel,
+    stdlib,
+    esockd
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, []},
+  {licenses, ["Apache 2.0"]},
+  {links, []}
+ ]}.

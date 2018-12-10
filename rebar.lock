@@ -1,0 +1,4 @@
+[{<<"esockd">>,
+  {git,"https://github.com/emqx/esockd",
+       {ref,"da9a181943235ec1a2adefa451fd51ac1c567874"}},
+  0}].

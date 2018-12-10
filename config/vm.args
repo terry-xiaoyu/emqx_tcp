@@ -1,0 +1,6 @@
+-sname emqx_tcp
+
+-setcookie emqx_tcp_cookie
+
++K true
++A30
